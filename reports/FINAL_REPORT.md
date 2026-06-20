@@ -1,7 +1,7 @@
 # Reconnaissance Report
 ## Cybersecurity Internship Project
 
-Student Name: [Your Name]
+Student Name: Gifty Thangam Varughese
 Target: scanme.nmap.org
 IP Address: 45.33.32.156
 Date: 20 June 2026
