@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Sat Jun 20 10:10:43 2026 as: /usr/lib/nmap/nmap -sV -O -sC -oN ./reports/scan_scanme.nmap.org_20260620_095017/4_services.txt scanme.nmap.org

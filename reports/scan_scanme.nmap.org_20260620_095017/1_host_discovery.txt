@@ -1,0 +1,5 @@
+# Nmap 7.99 scan initiated Sat Jun 20 09:50:17 2026 as: /usr/lib/nmap/nmap -sn -oN ./reports/scan_scanme.nmap.org_20260620_095017/1_host_discovery.txt scanme.nmap.org
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.0025s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+# Nmap done at Sat Jun 20 09:50:17 2026 -- 1 IP address (1 host up) scanned in 0.22 seconds

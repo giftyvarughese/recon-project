@@ -1,0 +1,18 @@
+# Nmap 7.99 scan initiated Sat Jun 20 10:16:26 2026 as: /usr/lib/nmap/nmap -O --osscan-guess -T4 -oN reports/os_scan.txt scanme.nmap.org
+Warning: 45.33.32.156 giving up on port because retransmission cap hit (6).
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.0098s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 823 closed tcp ports (reset), 174 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+31337/tcp open  Elite
+Device type: bridge
+Running (JUST GUESSING): Oracle Virtualbox (87%), lwIP (87%)
+OS CPE: cpe:/a:oracle:vm_virtualbox cpe:/a:lwip_project:lwip
+Aggressive OS guesses: Oracle Virtualbox lwIP NAT bridge (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Jun 20 10:17:48 2026 -- 1 IP address (1 host up) scanned in 82.15 seconds

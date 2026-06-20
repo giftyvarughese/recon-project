@@ -1,0 +1,12 @@
+{
+  "ip": "45.33.32.156",
+  "hostname": "scanme.nmap.org",
+  "city": "Fremont",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5483,-121.9886",
+  "org": "AS63949 Akamai Connected Cloud",
+  "postal": "94536",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
